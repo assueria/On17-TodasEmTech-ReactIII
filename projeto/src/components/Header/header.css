@@ -1,0 +1,18 @@
+.header {
+    padding: 50px;
+    text-align: center;
+    color: rgb(145, 26, 56);
+    background-color: #fdd1d4;
+    background-size: cover;
+    height: 300px;
+    margin-bottom: 100px;
+}
+
+.header h1 {
+    font-size: 40px;
+}
+
+.header img {
+    width: 40vw;
+    height: 50vh;
+}

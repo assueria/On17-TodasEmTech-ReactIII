@@ -1,0 +1,28 @@
+hr {
+    width: 65%;
+    height: 1px;
+}
+
+.apresentacao h2 {   
+    display: flex;
+    justify-content: center;
+}
+
+.apresentacao img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.informacoes{
+    align-items: center;
+    display: flex;
+    margin: 40px auto;
+    padding: 5px;
+    gap: 30px;
+    justify-content: center;
+    width: 60%;
+    margin-bottom: 30px;
+    font-size: 15px;
+    line-height: 1.5rem;
+}
